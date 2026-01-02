@@ -6,9 +6,9 @@ Computer Engineering Student | Java & DSA | Backend Development
 
 ---
 
-# 💫 Profile Summary
+# 💫 About Me
 
-### 👨‍💻 About Me
+
 - 🎓 Final-year Computer Engineering student  
 - 💻 Focused on Java, Data Structures & Algorithms  
 - 🔧 Building backend applications using Spring Boot  
