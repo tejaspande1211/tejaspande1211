@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Tejas 👋</h1>
 
-<!--
-**tejaspande1211/tejaspande1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Computer Engineering Student | Java & DSA | Backend Development
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🎓 Final-year Computer Engineering student  
+- 💻 Strong in Java, Data Structures & Algorithms  
+- 🌱 Currently working with Spring Boot and backend systems  
+- 📊 Exploring Machine Learning and data-driven applications  
+- 🎯 Focused on clean code, problem-solving, and interview readiness  
+
+---
+
+### 🛠️ Tech Stack
+**Languages:** Java, Python, C++  
+**Backend:** Spring Boot  
+**Core CS:** DSA, OOP, DBMS  
+**Tools:** Git, GitHub  
+**Data & ML:** Pandas, NumPy, basic ML concepts  
+
+---
+
+### 📌 Featured Work
+- Java & DSA practice (arrays, strings, DP, trees)
+- Spring Boot backend projects
+- ML & data analysis notebooks
+
+---
+
+### 📫 Connect
+- GitHub: https://github.com/tejaspande1211
+- LinkedIn: ADD_YOUR_LINK
