@@ -6,7 +6,7 @@ Computer Engineering Student | Java & DSA | Backend Development
 
 ---
 
-# 💫 About Me
+# 💫 Profile Summary
 
 ### 👨‍💻 About Me
 - 🎓 Final-year Computer Engineering student  
