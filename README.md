@@ -33,4 +33,4 @@ Computer Engineering Student | Java & DSA | Backend Development
 
 ### 📫 Connect
 - GitHub: https://github.com/tejaspande1211
-- LinkedIn: ADD_YOUR_LINK
+- LinkedIn: https://www.linkedin.com/in/tejas-pande-38b66b256/
